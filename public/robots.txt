@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://94.237.80.178/sitemap.xml
